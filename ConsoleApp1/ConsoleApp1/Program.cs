@@ -4,7 +4,10 @@ using System.Runtime.CompilerServices;
 
 internal class Program
 {
-
+    /// <summary>
+    /// Procedura główna aplikacji
+    /// </summary>
+    /// <param name="args">Parametry wejściowe w postaci tablicy tekstowej</param>
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, World! ");
@@ -15,7 +18,7 @@ internal class Program
 
     private static void Kielbasa()
     {
-    Console.WriteLine($"Kielbasa");
+        Console.WriteLine($"Kielbasa");
     }
 
 }
