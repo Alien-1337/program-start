@@ -5,11 +5,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>fresh_drink_alcohol_whiskey_beverage_bottle_icon_258816.ico</ApplicationIcon>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Content Include="fresh_drink_alcohol_whiskey_beverage_bottle_icon_258816.ico" />
-  </ItemGroup>
 
 </Project>
