@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\bin\Debug\Wyścig.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\bin\Debug\Wyścig.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\bin\Debug\Wyścig.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\obj\Debug\Wyścig.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\obj\Debug\Wyścig.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\obj\Debug\Wyścig.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Wyścig\Wyścig\obj\Debug\Wyścig.pdb
