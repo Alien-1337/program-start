@@ -120,7 +120,14 @@ namespace Wyścig
 
         static void WyswietlZawodnika(int _id) { }
 
-        static void WyswietlWszystkich() { }
+        static void WyswietlWszystkich() 
+        
+        {
+            foreach (Zawodnik zaw in Zawodnicy)
+            {
+                Console.WriteLine($"ID: {zaw.id}, Nazwisko: {zaw.nazwisko}, Imię: {zaw.imie}, ");
+            }
+        }
 
         static void ZamknijProgram() { }
 

@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\bin\Debug\Konwersje.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\bin\Debug\Konwersje.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\bin\Debug\Konwersje.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\obj\Debug\Konwersje.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\obj\Debug\Konwersje.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\obj\Debug\Konwersje.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konwersje\obj\Debug\Konwersje.pdb
