@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\bin\Debug\AccessControl.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\obj\Debug\AccessControl.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\obj\Debug\AccessControl.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\AccessControl\obj\Debug\AccessControl.pdb

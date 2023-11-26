@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\bin\Debug\Kantor.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\bin\Debug\Kantor.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\bin\Debug\Kantor.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\obj\Debug\Kantor.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\obj\Debug\Kantor.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\obj\Debug\Kantor.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kantor\obj\Debug\Kantor.pdb

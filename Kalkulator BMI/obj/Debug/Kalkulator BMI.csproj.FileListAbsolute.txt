@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\bin\Debug\Kalkulator BMI.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\bin\Debug\Kalkulator BMI.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\bin\Debug\Kalkulator BMI.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\obj\Debug\Kalkulator BMI.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\obj\Debug\Kalkulator BMI.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\obj\Debug\Kalkulator BMI.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Kalkulator BMI\obj\Debug\Kalkulator BMI.pdb

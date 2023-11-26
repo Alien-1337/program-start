@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\bin\Debug\Pierwiastki równania kwadratowego.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\bin\Debug\Pierwiastki równania kwadratowego.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\bin\Debug\Pierwiastki równania kwadratowego.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\obj\Debug\Pierwiastki równania kwadratowego.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\obj\Debug\Pierwiastki równania kwadratowego.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\obj\Debug\Pierwiastki równania kwadratowego.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pierwiastki równania kwadratowego\obj\Debug\Pierwiastki równania kwadratowego.pdb

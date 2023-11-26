@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\bin\Debug\Twierdzenie Pitagorasa.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\bin\Debug\Twierdzenie Pitagorasa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\bin\Debug\Twierdzenie Pitagorasa.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\obj\Debug\Twierdzenie Pitagorasa.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\obj\Debug\Twierdzenie Pitagorasa.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\obj\Debug\Twierdzenie Pitagorasa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Twierdzenie Pitagorasa\obj\Debug\Twierdzenie Pitagorasa.pdb
