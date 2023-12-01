@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\bin\Debug\Pętla While.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\bin\Debug\Pętla While.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\bin\Debug\Pętla While.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\obj\Debug\Pętla While.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\obj\Debug\Pętla While.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\obj\Debug\Pętla While.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla While\obj\Debug\Pętla While.pdb

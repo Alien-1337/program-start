@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\bin\Debug\Pętla For.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\bin\Debug\Pętla For.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\bin\Debug\Pętla For.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\obj\Debug\Pętla For.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\obj\Debug\Pętla For.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\obj\Debug\Pętla For.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Pętla For\obj\Debug\Pętla For.pdb
