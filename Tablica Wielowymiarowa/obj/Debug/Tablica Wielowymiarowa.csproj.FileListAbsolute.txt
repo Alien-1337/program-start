@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\bin\Debug\Tablica Wielowymiarowa.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\bin\Debug\Tablica Wielowymiarowa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\bin\Debug\Tablica Wielowymiarowa.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\obj\Debug\Tablica Wielowymiarowa.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\obj\Debug\Tablica Wielowymiarowa.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\obj\Debug\Tablica Wielowymiarowa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Wielowymiarowa\obj\Debug\Tablica Wielowymiarowa.pdb

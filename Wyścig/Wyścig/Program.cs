@@ -114,11 +114,87 @@ namespace Wyścig
             ID++;
         }
 
-        static void UsunZawodnika(int _id) { }
+        static void UsunZawodnika(int _id) 
+        {
+            int idDoUsuniecia;
+            WyswietlWszystkich();
+            Console.Write("Podaj ID zawodnika do usunięcia: ");
+            while (!int.TryParse(Console.ReadLine(), out idDoUsuniecia) || !Zawodnicy.Exists(z => z.id == idDoUsuniecia))
+            {
+                Console.WriteLine("Niepoprawne ID. Spróbuj ponownie.");
+            }
 
-        static void EdytujZawodnika(int _id) { }
+            Zawodnicy.RemoveAll(z => z.id == idDoUsuniecia);
+            Console.WriteLine($"Zawodnik o ID {idDoUsuniecia} został usunięty.");
+        }
 
-        static void WyswietlZawodnika(int _id) { }
+
+        static void EdytujZawodnika(int _id) 
+        {
+            int idDoEdycji;
+            WyswietlWszystkich();
+            Console.Write("Podaj ID zawodnika do edycji: ");
+            while (!int.TryParse(Console.ReadLine(), out idDoEdycji) || !Zawodnicy.Exists(z => z.id == idDoEdycji))
+            {
+                Console.WriteLine("Niepoprawne ID. Spróbuj ponownie.");
+            }
+
+            Zawodnik zawodnikDoEdycji = Zawodnicy.Find(z => z.id == idDoEdycji);
+
+            Console.WriteLine($"Edytujesz zawodnika o ID {idDoEdycji}.");
+
+            zawodnikDoEdycji.imie = PodajDane($"Nowe imię ({zawodnikDoEdycji.imie}): ");
+            zawodnikDoEdycji.nazwisko = PodajDane($"Nowe nazwisko ({zawodnikDoEdycji.nazwisko}): ");
+            zawodnikDoEdycji.narodowosc = PodajDane($"Nowa narodowość ({zawodnikDoEdycji.narodowosc}): ");
+            byte nowyWiek;
+            while (!byte.TryParse(PodajDane($"Nowy wiek ({zawodnikDoEdycji.wiek}): "), out nowyWiek))
+            {
+                Console.WriteLine("Niepoprawny wiek. Spróbuj ponownie.");
+            }
+            zawodnikDoEdycji.wiek = nowyWiek;
+
+            zawodnikDoEdycji.email = PodajDane($"Nowy email ({zawodnikDoEdycji.email}): ");
+            zawodnikDoEdycji.plec = PodajDane($"Nowa płeć ({zawodnikDoEdycji.plec}): ").ToUpper();
+            bool noweDoswiadczenie;
+            while (!bool.TryParse(PodajDane($"Nowe doświadczenie ({zawodnikDoEdycji.doswiadczenie}): "), out noweDoswiadczenie))
+            {
+                Console.WriteLine("Niepoprawna wartość doświadczenia. Spróbuj ponownie.");
+            }
+            zawodnikDoEdycji.doswiadczenie = noweDoswiadczenie;
+
+            int nowyRanking;
+            while (!int.TryParse(PodajDane($"Nowy ranking ({zawodnikDoEdycji.ranking}): "), out nowyRanking))
+            {
+                Console.WriteLine("Niepoprawny ranking. Spróbuj ponownie.");
+            }
+            zawodnikDoEdycji.ranking = nowyRanking;
+
+            Console.WriteLine($"Zawodnik o ID {idDoEdycji} został zaktualizowany.");
+        }
+
+        static void WyswietlZawodnika(int _id) 
+        {
+            int idDoWyswietlenia;
+            WyswietlWszystkich();
+            Console.Write("Podaj ID zawodnika do wyświetlenia: ");
+            while (!int.TryParse(Console.ReadLine(), out idDoWyswietlenia) || !Zawodnicy.Exists(z => z.id == idDoWyswietlenia))
+            {
+                Console.WriteLine("Niepoprawne ID. Spróbuj ponownie.");
+            }
+
+            Zawodnik zawodnik = Zawodnicy.Find(z => z.id == idDoWyswietlenia);
+            Console.WriteLine($"Dane zawodnika o ID {idDoWyswietlenia}:");
+
+            Console.WriteLine($"ID: {zawodnik.id}");
+            Console.WriteLine($"Imię: {zawodnik.imie}");
+            Console.WriteLine($"Nazwisko: {zawodnik.nazwisko}");
+            Console.WriteLine($"Narodowość: {zawodnik.narodowosc}");
+            Console.WriteLine($"Wiek: {zawodnik.wiek}");
+            Console.WriteLine($"Email: {zawodnik.email}");
+            Console.WriteLine($"Płeć: {zawodnik.plec}");
+            Console.WriteLine($"Doświadczenie: {zawodnik.doswiadczenie}");
+            Console.WriteLine($"Ranking: {zawodnik.ranking}");
+        }
 
         static void WyswietlWszystkich() 
         

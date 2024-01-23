@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\bin\Debug\Matrices.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\bin\Debug\Matrices.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\obj\Debug\Matrices.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Matrices\obj\Debug\Matrices.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\bin\Debug\ArrayList().exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\bin\Debug\ArrayList().exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\bin\Debug\ArrayList().pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\obj\Debug\ArrayList().csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\obj\Debug\ArrayList().csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\obj\Debug\ArrayList().exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\ArrayList()\obj\Debug\ArrayList().pdb

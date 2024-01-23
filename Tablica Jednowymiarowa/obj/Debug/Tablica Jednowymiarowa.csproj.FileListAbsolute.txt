@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\bin\Debug\Tablica Jednowymiarowa.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\bin\Debug\Tablica Jednowymiarowa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\bin\Debug\Tablica Jednowymiarowa.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\obj\Debug\Tablica Jednowymiarowa.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\obj\Debug\Tablica Jednowymiarowa.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\obj\Debug\Tablica Jednowymiarowa.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Tablica Jednowymiarowa\obj\Debug\Tablica Jednowymiarowa.pdb

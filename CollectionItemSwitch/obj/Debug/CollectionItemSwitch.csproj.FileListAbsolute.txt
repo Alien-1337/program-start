@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\bin\Debug\CollectionItemSwitch.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\bin\Debug\CollectionItemSwitch.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\bin\Debug\CollectionItemSwitch.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\obj\Debug\CollectionItemSwitch.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\obj\Debug\CollectionItemSwitch.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\obj\Debug\CollectionItemSwitch.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CollectionItemSwitch\obj\Debug\CollectionItemSwitch.pdb
