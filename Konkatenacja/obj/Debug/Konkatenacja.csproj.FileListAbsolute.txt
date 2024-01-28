@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\bin\Debug\Konkatenacja.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\bin\Debug\Konkatenacja.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\bin\Debug\Konkatenacja.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\obj\Debug\Konkatenacja.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\obj\Debug\Konkatenacja.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\obj\Debug\Konkatenacja.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Konkatenacja\obj\Debug\Konkatenacja.pdb

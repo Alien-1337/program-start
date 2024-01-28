@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\bin\Debug\Metoda lenght.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\bin\Debug\Metoda lenght.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\bin\Debug\Metoda lenght.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\obj\Debug\Metoda lenght.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\obj\Debug\Metoda lenght.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\obj\Debug\Metoda lenght.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Metoda lenght\obj\Debug\Metoda lenght.pdb

@@ -1,0 +1,35 @@
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.exe
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.deps.json
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.runtimeconfig.json
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.pdb
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.Form1.resources
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\refint\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.pdb
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.genruntimeconfig.cache
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\ref\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie trening\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.Properties.Resources.resources
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.deps.json
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.runtimeconfig.json
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\bin\Debug\net6.0-windows\FormyPodstawy.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.DialogKolarz.resources
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.Form1.resources
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.Properties.Resources.resources
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.csproj.GenerateResource.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.AssemblyInfoInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.AssemblyInfo.cs
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\refint\FormyPodstawy.dll
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\FormyPodstawy.genruntimeconfig.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\FormyPodstawy\obj\Debug\net6.0-windows\ref\FormyPodstawy.dll

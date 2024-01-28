@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\bin\Debug\PoruszaniePoPliku.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\bin\Debug\PoruszaniePoPliku.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\bin\Debug\PoruszaniePoPliku.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\obj\Debug\PoruszaniePoPliku.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\obj\Debug\PoruszaniePoPliku.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\obj\Debug\PoruszaniePoPliku.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\PoruszaniePoPliku\obj\Debug\PoruszaniePoPliku.pdb

@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\bin\Debug\Operacje na plikach.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\bin\Debug\Operacje na plikach.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\bin\Debug\Operacje na plikach.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\obj\Debug\Operacje na plikach.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\obj\Debug\Operacje na plikach.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\obj\Debug\Operacje na plikach.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\Operacje na plikach\obj\Debug\Operacje na plikach.pdb
