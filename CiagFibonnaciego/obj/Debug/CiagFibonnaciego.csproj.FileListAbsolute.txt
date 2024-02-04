@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\bin\Debug\CiagFibonnaciego.exe.config
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\bin\Debug\CiagFibonnaciego.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\bin\Debug\CiagFibonnaciego.pdb
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\obj\Debug\CiagFibonnaciego.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\obj\Debug\CiagFibonnaciego.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\obj\Debug\CiagFibonnaciego.exe
+C:\Users\pawel\Desktop\Programowanie Chorzów Merito 2023\CiagFibonnaciego\obj\Debug\CiagFibonnaciego.pdb
